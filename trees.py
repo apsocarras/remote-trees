@@ -1,0 +1,1 @@
+trees = ['dogwood', 'apple', 'cedar']

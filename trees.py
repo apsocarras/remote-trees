@@ -14,7 +14,10 @@ def isPalindrome(self, x: int) -> bool:
 
 
 # Creating some conflict
+
 # delete conflict_1 = 100
 conflict_2 = 200
 
 total_conflict = conflict_1 * conflict_2
+
+# New conflict comments to have to resolve

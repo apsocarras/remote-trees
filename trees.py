@@ -10,3 +10,9 @@ def isPalindrome(self, x: int) -> bool:
       return False
 
   # Making changes for new branch 'trees-again'.
+
+#Creating some conflict
+conflict_1 = 100
+conflict_2 = 200
+
+total_conflict = conflict_1 * conflict_2

@@ -1,4 +1,4 @@
-trees = ['dogwood', 'apple', 'cedar']
+trees = ['apple', 'cedar', 'calvin', 'hooey']
 trees.extend(['cyprus', 'oak'])
 
 def isPalindrome(self, x: int) -> bool:
@@ -10,3 +10,5 @@ def isPalindrome(self, x: int) -> bool:
       return False
 
   # Making changes for new branch 'trees-again'.
+
+  # hey ho, we're breaking things here!
